@@ -284,5 +284,3 @@ For a full, up‑to‑date list, see the [official docs](https://docs.llamaindex
 ```
 
 ---
-
-Simply create a new GitHub repository, copy the above into `README.md`, and you’ll have a complete, self‑contained LlamaIndex deep‑dive reference that you (or others) can use forever.
